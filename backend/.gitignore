@@ -1,0 +1,13 @@
+node_modules/
+
+# Expo
+dist/
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+.env
+.env*
